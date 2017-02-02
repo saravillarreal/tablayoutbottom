@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestLayoutFocalyx</string>
+    <string name="label_tab_medical_history">Medical History</string>
+    <string name="label_tab_laboratory">Laboratory</string>
+    <string name="label_tab_survey">Survey</string>
+    <string name="label_tab_doctors">Doctors</string>
+    <string name="label_tab_settings">Settings</string>
+
+
+
+</resources>
